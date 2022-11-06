@@ -6,7 +6,6 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class ViraJava05Test {
-
     //TC_1_1  - Тест кейс:
     //1. Открыть страницу https://openweathermap.org/
     //2. Набрать в строке поиска город Paris
